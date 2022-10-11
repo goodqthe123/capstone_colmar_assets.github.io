@@ -1,0 +1,301 @@
+@media only screen and (min-width: 600px) {
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: Gray;
+}
+
+
+.banner{
+     width: 100%;
+    background-color: LightGray;
+}
+
+.container{
+
+   
+}
+#bannerp{
+   width: 100%;
+  margin: 32px 24px 32px 24px;
+  justify-content: center;
+}
+
+.bant{
+
+    margin: auto;
+}
+
+
+.col-5{
+    margin:auto;
+ 
+}
+
+.button5 {
+    background-color: #555555;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 70%;
+
+
+
+} /* Black */
+
+/* MAIN */ 
+#mainp{
+    width: 100%;
+   margin: 32px 24px 32px 24px;
+   justify-content: center;
+ }
+ 
+.row{
+
+   /* border-style: groove; */
+    
+}
+
+.learningmoble{
+
+    display: none;
+}
+.mainrp1{
+    display: inline-block;
+}
+
+/* start learning */
+
+.learning{
+    background-color: LightGray;
+    width: 100%;
+    margin: 32px 0px 32px 0px;
+}
+
+.learning h1{
+    margin: 32px 0px 32px 0px;
+    padding: 32px 0px 32px 0px;
+    text-align: center;
+  
+}
+
+
+#la{
+   width: 100%;
+   padding: 0%;
+
+}
+
+.learninga{
+    margin: 32px 0px 32px 0px;
+    padding: 32px 0px 32px 0px;
+    text-align: center;
+  
+}
+
+.videoa{
+
+    margin: 0px 24px 0px 24px;
+}
+
+.learningm{
+
+    display: flex;
+    justify-content: center;
+   
+    flex-shrink: 1;
+}
+
+
+.learningt{
+  
+    margin:24px 32px 24px 32px ;
+}
+
+.left{
+    width: 85%;
+}
+
+
+.right2{
+    display: flex;
+    justify-content: center;
+    
+    flex-shrink: 1;
+    margin: 16px 16px 16px 16px;
+    
+}
+
+.right2t{
+    width: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-right: 1em;
+}
+
+#hovera:hover{
+    background-color: lightgray;
+}
+
+
+}
+
+
+/* moder------------------------------------------------------------------------------------------------------------------------------------------------------- */
+@media only screen and (max-width: 600px){
+    
+     
+    body{
+        font-family: Arial, Helvetica, sans-serif;
+        color: Gray;
+    }
+    
+    
+    .banner{
+         width: 100%;
+        background-color: LightGray;
+    }
+    
+    .container{
+    
+       
+    }
+    #bannerp{
+       width: 100%;
+      margin: 32px 24px 32px 24px;
+      justify-content: center;
+    }
+    
+    .bant{
+    
+        margin: auto;
+    }
+    
+    
+    .col-5{
+        margin:auto;
+     
+    }
+    
+    .button5 {
+        background-color: #555555;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        width: 70%;
+    
+    
+    
+    } /* Black */
+    
+    /* MAIN */ 
+
+    #main{
+        display: none;
+    }
+     
+
+    
+    
+    .mainrp1{
+        display: flex;
+    }
+    
+    /* start learning */
+    .learningp{
+        display: none;
+    }
+
+    .learning{
+        background-color: LightGray;
+        width: 100%;
+        margin: 32px 0px 32px 0px;
+    }
+    
+    .learning h1{
+        margin: 32px 0px 32px 0px;
+        padding: 32px 0px 32px 0px;
+        text-align: center;
+      
+    }
+    
+    .learningmoble h2{
+    background-color: lightgray;
+     padding: 16px 16px 24px 16px;
+
+    }
+    
+    #la{
+       width: 100%;
+       padding: 0%;
+    
+    }
+    
+    .learninga{
+        margin: 32px 0px 32px 0px;
+        padding: 32px 0px 32px 0px;
+        text-align: center;
+      
+    }
+    
+    .videoa{
+    
+        margin: 0px 24px 0px 24px;
+    }
+    
+    .learningm{
+    
+        display: flex;
+        justify-content: center;
+       
+        flex-shrink: 1;
+    }
+    
+    
+    .learningt{
+        width: 75%
+        margin:24px 32px 24px 32px ;
+    }
+    
+    .left{
+        width: 85%;
+    }
+    
+    
+    .right2{
+        display: flex;
+        justify-content: center;
+        
+        flex-shrink: 1;
+        margin: 16px 16px 16px 16px;
+        
+    }
+    
+    .right2t{
+        width: 65%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-right: 1em;
+    }
+    
+    #hovera:hover{
+        background-color: lightgray;
+    }
+
+    .learningm{
+        display: none;
+    }
+  }
